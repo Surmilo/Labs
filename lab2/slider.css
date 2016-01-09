@@ -1,0 +1,24 @@
+.slider {
+	width: 400px;
+	margin: 2em auto;	
+}
+
+.slider-wrapper {
+	width: 100%;
+	height: 300px;
+	position: relative; 
+}
+
+.slide {
+	position: absolute; 
+	width: 100%;
+	height: 100%;	
+}
+
+.slider-nav button.slider-previous {
+	float: left;
+}
+
+.slider-nav button.slider-next {
+	float: right;
+}
